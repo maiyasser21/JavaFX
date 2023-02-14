@@ -1,0 +1,15 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 14, 2023, 2:10:46 AM
+    Author     : DELL
+*/
+#Text{
+    -fx-fill: red;
+    -fx-font-size:30;
+}
+#Rect{
+    -fx-fill: linear-gradient(rgba(0,101,101,1), rgba(0,101,101,1), rgba(101,101,101,1));
+}
