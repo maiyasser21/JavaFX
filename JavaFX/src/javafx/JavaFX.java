@@ -29,7 +29,7 @@ public class JavaFX extends Application {
        super.init(); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
         t=new Text("Hello World T^T");
         t.setId("Text");
-        r =new Rectangle(0,0,300,250);
+        r =new Rectangle(0,0,301,250);
         r.setId("Rect");
         ref= new Reflection();
         ref.setFraction(0.8);
